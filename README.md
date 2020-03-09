@@ -35,7 +35,7 @@ Pokud v telefonním seznamu neexistuje kontakt, u něhož by nějaká část odp
 #### Kontakt(y) nalezen(y)
 Každý kontakt, který odpovídá hledanému kritériu, program vytiskne na jeden řádek ve formátu JMENO, TELCISLO, kde JMENO je jméno kontaktu z telefonního seznamu a TELCISLO je záznam o telefonním čísle. Program tiskne všechny kontakty, které kritériu odpovídají. Na pořadí řádků nezáleží. Stejně tak nezáleží ani na velikosti písmen.
 
-## Příklady vstupů a výstupů
+## Příklady vstupů a výstupů (premiove zadanie!)
 Pomocný soubor telefonního seznamu:
 ```
 $ cat seznam.txt
