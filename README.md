@@ -2,7 +2,7 @@
 ### Popis projektu
 Cílem projektu je vytvořit program, který by emuloval zjednodušený algoritmus hledání kontaktů zadaných pomocí posloupnosti číslic. Vstupem programu je posloupnost číslic. Výstup programu bude obsahovat seznam kontaktů, které odpovídají zadanému číselnému filtru.
 
-### Detailní specifikace
+# Detailní specifikace
 Program implementujte ve zdrojovém souboru proj1.c. Vstupní data budou čtena ze standardního vstupu (stdin), výstup bude tisknut na standardní výstup (stdout).
 
 ## Syntax spuštění
