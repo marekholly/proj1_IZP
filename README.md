@@ -1,5 +1,5 @@
 # Projekt 1 - Práce s textem
-### Popis projektu
+## Popis projektu
 Cílem projektu je vytvořit program, který by emuloval zjednodušený algoritmus hledání kontaktů zadaných pomocí posloupnosti číslic. Vstupem programu je posloupnost číslic. Výstup programu bude obsahovat seznam kontaktů, které odpovídají zadanému číselnému filtru.
 
 # Detailní specifikace
